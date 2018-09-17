@@ -1,0 +1,3 @@
+public enum Membership {
+    MEMBER, V_PRESIDENT, PRESIDENT, SECRETARY, TREASURER
+}
